@@ -47,11 +47,6 @@ Gracias a la integración de **n8n, Python y Power BI**, se logró:
 
 ---
 
-## 📁 Enlace al proyecto
-📌 [Ver Dashboard y Código en GitHub](#) *(Agrega aquí tu enlace cuando esté disponible)*
-
----
-
 ## 🧑‍💻 Autor
 **Bryan Edwin Toma Rojas**  
 💼 Estudiante de Ingeniería de Sistemas 
